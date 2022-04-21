@@ -1,0 +1,62 @@
+.flexer{
+    height: 300px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box1,.box9{
+    height: 10%;
+}
+.box2,.box8{
+    height: 15%;
+}
+.box3,.box7{
+    height: 20%;
+}
+.box6{
+    height: 35%;
+}
+.box4{
+    height: 25%;
+}
+.box5{
+    height: 30%;
+}
+.box1{
+    background-color: red;
+}
+.box2{
+    background-color: blue;
+}
+.box3{
+    background-color: green;
+}
+.box4{
+    background-color: yellow;
+}
+.box5{
+    background-color: orange;
+}
+.box6{
+    background-color: purple;
+}
+.box7{
+    background-color: brown;
+}
+.box8{
+    background-color: gray;
+}
+.box9{
+    background-color: white;
+}
+.box10{
+    background-color: pink;
+}
+.b{
+    width: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 0 10px #000;
+}
