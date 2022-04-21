@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header , footer{
+    padding: 25px;
+    background-color: greenyellow;
+}
+.scaffold{
+    height: 600px;
+    display: flex;
+}
+.scaffold .article{
+    width: 60%;
+    /* border: 1px solid red; */
+}
+.scaffold .nav{
+    background-color:#F7F5D8 ;
+    /* border: 1px solid red; */
+    height: 100%;
+    width: 20%;
+}
+.scaffold .aside{
+    background-color: #F7F5D8;
+    /* border: 1px solid red; */
+    height: 100%;
+    width: 20%;
+}
