@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.colorflipper{
+    margin: auto;
+    margin-top: 10px;
+    background-color: red;
+    width: 20%;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.colorflipper button{
+    margin-top: 10px;
+    background-color: red;
+    border: 2px solid aqua;
+    width: 20%;
+    height: 50px;
+}
